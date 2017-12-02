@@ -116,8 +116,8 @@ int write_jpeg_file( char *filename, int quality )
 
 int main( int argc, char  *args[])
 {
-  int quality = 80;
-  char *infilename = "/home/anton/MediaSDK/res/input.jpg", *outfilename = "/home/anton/MediaSDK/res/output1.jpg";
+  int quality;
+  char *infilename , *outfilename;
   if (!(argc ==4)){
       std::cout << "Invalid parameters"<< std::endl;
       return -1;
