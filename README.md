@@ -25,3 +25,10 @@
 home/anton/MediaSDK/res/output.jpg - выходное изображение
 80 - качество сжатия в диапозоне он 1 до 100 (чем больше тем лучше)
 
+---
+
+
+Так же владею синтаксисом Markdown:
+
+В качестве примера могу привести [туториал по установке caffe](https://github.com/Anton1qw2/IntelDelta8/wiki/Установка-caffe-на-Ubuntu-16.04-LTS)
+
