@@ -11,12 +11,16 @@ help
 
 ![](https://pp.userapi.com/c830709/v830709904/5513/sD6V-RL9XUc.jpg)
 
+---
+
 ```
 findIbjectType
 ```
 Показывает все существующие типы объектов из БД
 
 ![](https://pp.userapi.com/c830709/v830709904/551a/yKWEZ_SPJ30.jpg)
+
+---
 
 ```
 findObjects
@@ -25,6 +29,8 @@ findObjects
 
 ![](https://pp.userapi.com/c830709/v830709904/5522/EFqf7F94Q6k.jpg)
 
+---
+
 ```
 ObjectInfo 792
 ```
@@ -32,12 +38,16 @@ ObjectInfo 792
 
 ![](https://pp.userapi.com/c830709/v830709904/5533/DKQKJ-Gwjak.jpg)
 
+---
+
 ```
 RackInfo 792
 ```
 Показывает информацию о занятости Rack
 
 ![](https://pp.userapi.com/c830709/v830709904/553a/L4UOTqCzhpw.jpg)
+
+---
 
 ```
 add Rack
